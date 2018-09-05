@@ -5,6 +5,6 @@ def square_array(numbers)
     new_number = number ** 2
     new_array = []
     new_array << new_number
+    return new_array
   end
-  return new_array
 end
